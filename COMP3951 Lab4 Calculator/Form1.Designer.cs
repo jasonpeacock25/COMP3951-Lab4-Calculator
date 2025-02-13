@@ -1,4 +1,4 @@
-﻿namespace COMP3951_Lab2_Olivia_Grace_Jason_Peacock
+﻿namespace COMP3951_Lab4_Calculator
 {
     partial class Form1
     {

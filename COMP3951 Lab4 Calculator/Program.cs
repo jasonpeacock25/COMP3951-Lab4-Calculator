@@ -9,7 +9,7 @@ using System.Windows.Forms;
 /// Include here the authors: Jason Peacock and Olivia Grace
 /// Include here date/revisions: January 21, 2025
 /// </summary>
-namespace COMP3951_Lab2_Olivia_Grace_Jason_Peacock
+namespace COMP3951_Lab4_Calculator
 {
     internal static class Program
     {

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP3951 Lab2 Olivia Grace Jason Peacock", "COMP3951 Lab2 Olivia Grace Jason Peacock\COMP3951 Lab2 Olivia Grace Jason Peacock.csproj", "{ECF9564A-13A7-4969-B498-C2F0525D8B43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP3951 Lab4 Calculator", "COMP3951 Lab4 Calculator\COMP3951 Lab4 Calculator.csproj", "{ECF9564A-13A7-4969-B498-C2F0525D8B43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

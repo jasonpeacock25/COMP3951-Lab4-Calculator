@@ -10,7 +10,7 @@ using System.Windows.Forms;
 /// Include here the authors: Jason Peacock and Olivia Grace
 /// Include here date/revisions: January 21, 2025
 /// </summary>
-namespace COMP3951_Lab2_Olivia_Grace_Jason_Peacock
+namespace COMP3951_Lab4_Calculator
 {
     /// <summary>
     /// The Calculator class represents a calculator that can perform binary and unary operations and store memory. It contains attributes to represent two operands, an 

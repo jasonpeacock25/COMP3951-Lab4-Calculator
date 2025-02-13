@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{ECF9564A-13A7-4969-B498-C2F0525D8B43}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>COMP3951_Lab2_Olivia_Grace_Jason_Peacock</RootNamespace>
-    <AssemblyName>COMP3951 Lab2 Olivia Grace Jason Peacock</AssemblyName>
+    <RootNamespace>COMP3951_Lab4_Calculator</RootNamespace>
+    <AssemblyName>COMP3951 Lab4 Calculator</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -69,6 +69,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
